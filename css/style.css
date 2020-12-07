@@ -1,0 +1,32 @@
+html {
+  font-family: 'Garamond bold';
+  background-color: #f4f3f4;
+  scroll-behavior: smooth;
+}
+
+.parallax-container {
+  display: flex;
+  justify-content: center;
+}
+
+.brand-logo {
+  margin-left: 1rem;
+  font-family: 'Garamond bold';
+}
+
+h2 {
+  font-size: 3em;
+}
+
+.liste-title  {
+  font-size: 2em;
+}
+
+li {
+  font-size: 0.5em;
+}
+
+.adresse, .tel, .contact {
+  font-size: 3em;
+}
+
